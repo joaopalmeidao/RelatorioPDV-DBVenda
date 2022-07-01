@@ -1,0 +1,7 @@
+telegram:
+  # Settings for telegram integration 
+  token: ""
+  chat_id: 
+
+  
+
